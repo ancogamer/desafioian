@@ -19,10 +19,11 @@ arra.push(lista5);
 
 
 
-number= (numer) =>{
+number= (numer) =>{  //this is a arrow function
     for(i=0;i<arra.length||arra[i].id!=numer;i++);
     console.log(arra[i]);
 }
 
 number(35);
+
     
